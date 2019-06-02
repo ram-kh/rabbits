@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/protected/controllers/ConfigController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/controllers/CopulationsController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/controllers/RabbitsController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/models/Config.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/models/Copulations.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/models/Okroly.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/models/Rabbits.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/models/Rabbits1.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/models/Vaccination.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/models/Weighing.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/config/_form.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/config/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/config/update.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/config/view.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/copulations/_form.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/copulations/create.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/copulations/update.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/layouts/column2.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/layouts/main.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/okroly/_form.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/okroly/create.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/okroly/update.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/rabbits/_form.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/rabbits/_view.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/rabbits/admin.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/rabbits/archive.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/rabbits/create.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/rabbits/other.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/rabbits/update.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/rabbits/work.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/site/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/views/vaccination/_form.php" charset="UTF-8" />
+  </component>
+</project>
